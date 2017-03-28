@@ -1,11 +1,23 @@
 
-<h1> background-color: lightblue;
-</h1>
+body {
+    background-color: linen;
+}
 
-<p>
-  padding: 50px;
-</p>
+h1 {
+    color: navy;
+    text-align: center;
+}
+h2{
+    background-color: lightblue;
+    color:maroon;
 
-
-<figure> margin: 25px;
-</figure>
+}
+.bold {
+    font-weight: bold;
+}
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
